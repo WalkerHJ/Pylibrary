@@ -12,7 +12,7 @@ Pylibrary
 <img src="TouNaoWangZhe/jp.jpg" width='500px'>
 <img src="TouNaoWangZhe/test.png" width='500px'>
 
-<img src="TouNaoWangZhe/jp2.jpg" width='800px'>
+<img src="TouNaoWangZhe/jp2.jpg" width='1000px'>
 
 >注意：确保你手机连接电脑，并安装配置好adb 
 >如果做好上述准备请打开你的游戏 当界面为答题的界面时 回车自动答题
